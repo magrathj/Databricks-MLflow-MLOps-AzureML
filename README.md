@@ -1,14 +1,22 @@
 # Databricks-MLflow-MLOps-AzureML
+
+## Introduction
 Using databricks mlflow model registry with azureml to build out an mlops pipeline
 
-
-
-
-### MLflow Model Registry Web-hook for MLOps
+***MLflow Model Registry Web-hook for MLOps***
 
 MLflow Model Registry is a central repository to store and query models for production use and  consumable across different teams. Users can publish and version models, discover new models and model  versions, request and approve stage transitions, pull information about models from production  systems, and download model artifacts.
 
 Through the web-hook APIs you can automate devops pipelines
+
+## Getting Started
+
+
+## Dependencies
+
+## Instructions
+
+
 
 #### Create test web-hook 
 
@@ -53,6 +61,9 @@ echo result: $result
 ```
 
 
+
+
+## Output
 
 
 
